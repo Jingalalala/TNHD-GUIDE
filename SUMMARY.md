@@ -1,7 +1,7 @@
 # Summary
 
-* [Introduction](docs/introduction.md)
-* [Tablet Guide](docs/tablet.md)
-* [Missions & Aura](docs/missions.md)
-* [Doctor Rules](docs/rules.md)
-* [Training & Supervised Shift](docs/training.md)
+* [Introduction & Quick Reference](docs/1-introduction.md)
+* [Tablet & Duty Guidelines](docs/2-tablet-guide.md)
+* [Missions & Aura](docs/3-missions-and-aura.md)
+* [Cadet Operations & Training](docs/4-cadet-operations.md)
+* [Leadership & Duty Rules](docs/5-leadership-and-rules.md)
