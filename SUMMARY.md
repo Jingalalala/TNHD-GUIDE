@@ -6,3 +6,4 @@
 * [TNHD Tablet Operational Manual](docs/4-tablet-guide.md)
 * [Missions, Aura & Career Board](docs/5-missions-and-progression.md)
 * [Cadet Operations & Shift Workflow](docs/6-cadet-ops-and-rules.md)
+* [Blood Bank, Donation & Lab Analysis](docs/7-blood-bank.md)
