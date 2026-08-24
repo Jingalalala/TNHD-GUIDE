@@ -8,6 +8,7 @@
 | **Treat** | +20 Aura |
 
 ## Promotion Board
-![Promotion Board](../assets/img5.png)
+
+Track your career progression, daily/weekly missions, and promotion exams directly on the Promotion Board section.
 
 > ⚠️ **Warning:** Never farm Aura. Patient care always comes first.

@@ -1,5 +1,11 @@
 # 🖥️ Tablet & Duty Guidelines
 
+The TNHD Tablet is your main tool for managing duty status, emergency dispatches, assignments, notifications, training, missions, and career progression.
+
+All new doctors are expected to understand and regularly use the following sections.
+
+---
+
 ## 1. 🖥️ Dashboard
 
 The **Dashboard** is your main overview.
@@ -18,7 +24,6 @@ Before beginning your shift, open the tablet and make sure your status is correc
 ## 2. 🚑 Active Dispatch
 
 ### What is it?
-
 **Active Dispatch** displays live EMS calls received through the department's dispatch system.
 
 When a new call appears:
@@ -87,7 +92,7 @@ You can see:
 Example Active Unit Display:
 🟢 Dcruz Peppe
 Aura: 1
-Designation: Dean
+Designation: Dean (13)
 Status: On Duty
 ```
 

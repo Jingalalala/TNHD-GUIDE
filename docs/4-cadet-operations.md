@@ -1,24 +1,25 @@
-# 🧑‍⚕️ Cadet Operations & Training
+# 🧑‍⚕️ Cadet Operations & Leadership
+
+## 11. 🧑‍⚕️ Cadet Operations
 
 Cadet Operations contains tools for senior doctors to help train and supervise junior members.
 
 The available sections include:
 
-## 11. Cadet Operations
-
 ### Training
 Senior doctors can create structured training sessions.
 
 A training session requires:
-* **Title**
-* Optional description
+* **Title** (Required)
+* **Description** (Optional)
 
+Example:
 ```text
-Example Training Session Title:
-Trauma Triage Refresher
+Title: Trauma Triage Refresher
+Description: Brief overview of what you'll cover in field triage and patient stabilization.
 ```
 
-Training should be useful, structured and relevant to EMS operations.
+Training should be useful, structured, and relevant to EMS operations.
 
 ---
 
@@ -38,3 +39,22 @@ Senior members should use supervised shifts to:
 Reports can be used to document relevant training, supervision or departmental activities.
 
 > 📋 **Note:** Always keep reports accurate and professional.
+
+---
+
+## 12. 👑 TNHD Leadership
+
+Leadership sections are restricted according to rank/permission.
+
+These may include:
+
+### Roster
+Used for managing and viewing department members.
+
+### Manage Programs
+Used for department programs and activities.
+
+### Supervision
+Used by authorized leadership members to manage supervision-related duties.
+
+> ⛔ **Important:** Do not attempt to use leadership functions unless your rank gives you the appropriate authority.

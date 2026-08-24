@@ -12,8 +12,6 @@ Official documentation for Thalainagarm Health Department (TNHD).
 4. Monitor Active Dispatch
 5. Treat patients professionally
 
-## Workflow
+## Operational Overview
 
-![Dashboard Overview](../assets/img1.png)
-
-The dashboard is your operational overview.
+The dashboard is your operational overview. Use it to verify your designation, duty status, and Aura before starting your shift.
