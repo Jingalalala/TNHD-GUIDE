@@ -17,25 +17,27 @@ Your **Aura** is important because it contributes toward your department progres
 
 ## 7. ⭐ Available Missions
 
-Available Missions contain regular activities that allow you to earn Aura.
+Available Missions contain regular department tasks that reward Aura upon completion.
 
-### Daily Missions
-Daily missions reset at midnight. Examples shown in the tablet include:
-* **Collect Blood** – collect blood from 3 patients (+25 Aura)
-* **On-Duty** – remain on duty for 20 minutes (+30 Aura)
-* **Dispense Medicine** – hand out 5 medicines (+20 Aura)
-* **Revive Patients** – revive 3 patients (+25 Aura)
-* **Treat Patients** – give 5 treatments (+20 Aura)
+> 💡 **Note on Mission Rotation:** Specific daily and weekly tasks rotate automatically and change regularly. The tasks listed below are **sample examples** of missions you may see in your tablet.
 
-Completing these missions gives you Aura.
+### Daily Missions (Sample Examples)
+Daily tasks reset every night at midnight. Examples of daily tasks include:
+* **Collect Blood (Sample)** – collect blood from 3 patients (`+25 Aura`)
+* **On-Duty (Sample)** – remain on duty for 20 minutes (`+30 Aura`)
+* **Dispense Medicine (Sample)** – hand out 5 medicines (`+20 Aura`)
+* **Revive Patients (Sample)** – revive 3 patients (`+25 Aura`)
+* **Treat Patients (Sample)** – provide 5 treatments (`+20 Aura`)
 
-### Weekly Missions
-Weekly missions reset on Monday. Examples include:
-* **Blood Bank Quota** (+120 Aura) – Collect blood from 15 patients this week.
-* **Duty Veteran** (+150 Aura) – Log 150 minutes on duty this week.
-* **Patient Care Quota** (+100 Aura) – Get rated by 5 patients this week.
+Completing daily tasks grants steady Aura.
 
-Weekly missions generally provide larger Aura rewards.
+### Weekly Missions (Sample Examples)
+Weekly tasks reset every Monday. Examples of weekly tasks include:
+* **Blood Bank Quota (Sample)** (`+120 Aura`) – Collect blood from 15 patients during the week.
+* **Duty Veteran (Sample)** (`+150 Aura`) – Log 150 minutes on duty during the week.
+* **Patient Care Quota (Sample)** (`+100 Aura`) – Receive positive ratings from 5 patients.
+
+Weekly tasks generally provide larger Aura rewards.
 
 > ⚠️ **Good Practice:** Do not chase missions at the expense of actual patient care. **Patient safety and proper RP always come first.**
 

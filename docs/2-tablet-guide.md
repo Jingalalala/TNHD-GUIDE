@@ -75,27 +75,3 @@ You have served 15 minutes on duty. +30 Aura awarded.
 ```
 
 Do not ignore department notifications, especially when you are actively on duty.
-
----
-
-## 5. 👥 Active Units
-
-**Active Units** shows doctors who are currently on duty.
-
-You can see:
-* Doctor name
-* Aura
-* Designation
-* Current status
-
-```text
-Example Active Unit Display:
-🟢 Dcruz Peppe
-Aura: 1
-Designation: Dean (13)
-Status: On Duty
-```
-
-This helps doctors and dispatch staff know who is currently available.
-
-> ⛔ **Rule:** If you are not actively working, do not remain marked **On Duty**.

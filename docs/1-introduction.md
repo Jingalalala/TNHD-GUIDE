@@ -18,9 +18,8 @@ All new doctors are expected to understand and regularly use the following secti
 | **Active Dispatch** | Respond to live EMS calls |
 | **My Assignments** | Handle cases assigned directly to you |
 | **Notification** | Department alerts and updates |
-| **Active Units** | See doctors currently on duty |
 | **Promotion Board** | Career progression |
-| **Available Missions** | Daily/weekly Aura missions |
+| **Available Missions** | Daily/weekly Aura missions (sample tasks) |
 | **Promotion Missions** | Rank progression activities |
 | **Leaderboard** | View mission/activity rankings |
 | **Promotion Exam** | Complete eligible promotion exams |
