@@ -1,8 +1,8 @@
 # Summary
 
-* [Introduction & Quick Reference](docs/1-introduction.md)
-* [Tablet & Duty Guidelines](docs/2-tablet-guide.md)
-* [Missions & Aura](docs/3-missions-and-aura.md)
-* [Cadet Operations & Training](docs/4-cadet-operations.md)
-* [Leadership & Duty Rules](docs/5-leadership-and-rules.md)
-* [General EMS Roleplay Guidelines](docs/6-general-ems-rp-guidelines.md)
+* [Welcome to TNHD](docs/1-welcome.md)
+* [TNHD Official EMS Guidelines](docs/2-ems-guidelines.md)
+* [General EMS Roleplay Standards](docs/3-general-ems-rp.md)
+* [TNHD Tablet Operational Guide](docs/4-tablet-guide.md)
+* [Missions, Aura & Career Board](docs/5-missions-and-progression.md)
+* [Cadet Operations & Shift Workflow](docs/6-cadet-ops-and-rules.md)
