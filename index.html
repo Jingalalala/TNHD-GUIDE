@@ -7,6 +7,36 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+
+  <!-- 📱 TABLET UNLOCK LOCKSCREEN OVERLAY -->
+  <div id="tablet-lockscreen">
+    <img src="assets/welcome_banner.jpg" class="lockscreen-bg" alt="Lockscreen Background">
+    
+    <div class="lockscreen-header">
+      <div class="status-badge">
+        <span class="status-dot"></span>
+        <span>TNHD OS v2.4 • SYSTEM ONLINE</span>
+      </div>
+      <div>🔒 SECURE TABLET • ⚡ 100% • 📶 5G LIVE</div>
+    </div>
+
+    <div class="lockscreen-center">
+      <div id="lock-time" class="lock-time">08:49 AM</div>
+      <div id="lock-date" class="lock-date">Monday, August 24, 2026</div>
+
+      <div class="lock-banner-wrapper">
+        <img src="assets/welcome_banner.jpg" class="lock-banner-img" alt="Welcome to Thalainagaram Medical Department">
+      </div>
+    </div>
+
+    <div class="lockscreen-footer">
+      <div class="fingerprint-btn">🩺</div>
+      <div class="unlock-prompt">
+        <span>👆 Slide or Click to Unlock Tablet</span>
+      </div>
+    </div>
+  </div>
+
   <div class="layout">
     <aside class="left">
       <h1>🏥 TNHD</h1>
@@ -19,11 +49,19 @@
       <a href="missions.html">5. Missions & Aura Board</a>
       <div class="sec">OPS & RULES</div>
       <a href="rules.html">6. Cadet Ops & Shift Rules</a>
+
+      <button id="lock-tablet-btn" class="lock-btn">🔒 Lock Tablet</button>
     </aside>
 
     <main>
       <div class="crumb">TNHD / Welcome</div>
       <h1>Welcome to Thalainagaram Health Department</h1>
+
+      <!-- FEATURED COVER BANNER -->
+      <div class="banner-container">
+        <img src="assets/welcome_banner.jpg" class="banner-img" alt="Welcome to Thalainagaram Medical Department">
+        <div class="banner-badge">OFFICIAL TNHD SEAL</div>
+      </div>
 
       <div class="callout">
         <b>👋 Welcome to EMS!</b><br>
@@ -85,5 +123,7 @@
       <a href="#overview">Overview</a>
     </aside>
   </div>
+
+  <script src="js/tablet-lock.js"></script>
 </body>
 </html>
