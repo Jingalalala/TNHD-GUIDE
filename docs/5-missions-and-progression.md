@@ -1,68 +1,50 @@
-# 🎓 Missions, Aura & Promotion Board
+# 🎓 Missions, Aura & Career Board
 
 The **Promotion Board** module inside the TNHD Tablet tracks career progression, available missions, leaderboard rankings, and promotion exams.
 
 ---
 
-## 1. 🎓 Promotion Board Overview
+## 1. 🎓 Promotion Board
 
-The Promotion Board allows you to monitor:
-* Available daily and weekly missions
-* Promotion missions required for rank progression
-* Department activity leaderboards
-* Eligible promotion examinations
+The Promotion Board tracks career progression, available missions, exams, and department leaderboards.
 
 ---
 
-## 2. ⭐ Available Missions & Aura
+## 2. ⭐ Available Missions
 
-Available Missions reward **Aura** upon completion. Aura measures your activity, dedication, and clinical contributions to TNHD.
+Available missions contain daily and weekly tasks that reward Aura upon completion.
 
-> 💡 **Dynamic Mission Rotation:** Specific daily (resets midnight) and weekly (resets Monday) tasks change dynamically. The items below are **sample examples** of tasks you may receive in your tablet.
+> 💡 **Dynamic Mission Rotation:** Specific daily (resets midnight) and weekly (resets Monday) tasks change dynamically. The items below are **sample examples** of missions shown in the tablet.
 
-### Daily Missions (Sample Examples)
-* **Collect Blood (Sample):** Collect blood from 3 patients (`+25 Aura`).
-* **On-Duty (Sample):** Remain on duty for 20 minutes (`+30 Aura`).
-* **Dispense Medicine (Sample):** Hand out 5 medicines (`+20 Aura`).
-* **Revive Patients (Sample):** Revive 3 patients after proper RP (`+25 Aura`).
-* **Treat Patients (Sample):** Provide 5 medical treatments (`+20 Aura`).
+| Mission | Objective & Reward |
+| :--- | :--- |
+| **💉 Collect Blood (Sample)** | Collect blood from 3 patients (`+25 Aura`) |
+| **⏱️ On-Duty (Sample)** | Remain on duty 20 minutes (`+30 Aura`) |
+| **💊 Dispense Medicine (Sample)** | Distribute medicine to patients (`+20 Aura`) |
+| **🚑 Revive Patients (Sample)** | Revive 3 patients (`+25 Aura`) |
 
-### Weekly Missions (Sample Examples)
-* **Blood Bank Quota (Sample):** Collect blood from 15 patients this week (`+120 Aura`).
-* **Duty Veteran (Sample):** Log 150 minutes on duty this week (`+150 Aura`).
-* **Patient Care Quota (Sample):** Receive positive ratings from 5 patients (`+100 Aura`).
-
-> ⚠️ **Good Practice:** Never chase missions at the expense of patient care. **Patient safety and proper RP always come first.**
+> ⚠️ **Good Practice:** Do not chase missions at the expense of actual patient care. **Patient safety and proper RP always come first.**
 
 ---
 
-## 3. 📈 Aura Rules & Anti-Abuse Policy
+## 3. 📈 Aura Rules
 
-Aura must be earned through genuine department activity.
+Aura represents legitimate activity within TNHD.
 
-### Strict Anti-Abuse Rules
-Never:
-* AFK farm duty hours.
-* Perform fake treatments or fake revives.
-* Complete missions artificially with friends/co-workers.
-* Exploit medical mechanics for Aura points.
+> ⛔ **Never:** AFK farm duty time, fake treatments, abuse revive systems, or coordinate fake activity for Aura.
 
 ---
 
-## 4. 🎓 Promotion Missions & Rank Ladder
+## 4. 🎓 Promotion Missions
 
-Promotion Missions are directly tied to your career rank progression.
-
-The tablet displays your current rank and the requirements needed to unlock the next level:
-* **Current Top Earnable Rank:** Dean (Lv 1)
-* **Director Appointment:** The Director of Medical Service is appointed directly by department leadership.
+```text
+[RANK LADDER]
+Current Designation: Dean (Lv 1) – Top earnable rank
+Note: Director is appointed directly by department leadership.
+```
 
 ---
 
-## 5. 📝 Promotion Exams
+## 5. 📝 Promotion Exam
 
-When eligible for a rank promotion:
-1. Open the **Exam** tab on the Promotion Board.
-2. Review eligibility conditions and activity requirements.
-3. Complete the examination honestly.
-4. Await evaluation results from High Command.
+When eligible, complete promotion exams honestly via the tablet examination module.
