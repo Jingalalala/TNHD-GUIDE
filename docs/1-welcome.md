@@ -31,7 +31,7 @@ As an EMS medic, you represent the frontline of safety and healthcare in our cit
 ## 🤝 Our Core Operating Philosophy
 
 ### 1. Good Vibes & Teamwork
-We foster a positive, supportive environment where every doctor—from new Paramedic trainees to the Dean and Director—supports one another. High-pressure situations call for calm heads and warm attitudes.
+We foster a positive, supportive environment where every doctor — from new Paramedic trainees to the Dean and Director — supports one another. High-pressure situations call for calm heads and warm attitudes.
 
 ### 2. Immersive Realism Without Stress
 We aim for realistic medical roleplay that feels engaging and natural. You don't need a medical degree in real life to excel here — just follow our guidelines, communicate clearly, and perform believable RP.
@@ -41,15 +41,16 @@ Every citizen, whether a police officer, civilian, or criminal, receives equal h
 
 ---
 
-## 🗺️ Handbook Navigation Guide
+## 🗺️ Handbook Navigation & Chapter Guide
 
-This handbook is split into distinct parts for easy reference:
-
-1. **[TNHD Official EMS Guidelines](2-ems-guidelines.md):** Do's & Don'ts, Duty Readiness, Full Rank Structure (L0 to L4), Patient Care & Revival Protocol, Promotion Criteria, Siren Etiquette, Medic Tools, 7-Step Procedure, and Gear Safety.
-2. **[General EMS Roleplay Standards](3-general-ems-rp.md):** Medical roleplay commands (`/me` & `/do`), response codes, scene staging safety, and radio 10-codes.
-3. **[TNHD Tablet Operational Guide](4-tablet-guide.md):** Comprehensive manual for using the FiveM in-game TNHD Tablet (Dashboard, Active Dispatch, Assignments, Notifications).
-4. **[Missions, Aura & Career Board](5-missions-and-progression.md):** Earning Aura, dynamic mission rotation examples, rank progression, and promotion exams.
-5. **[Cadet Operations & Shift Workflow](6-cadet-ops-and-rules.md):** Training sessions, supervised shifts, shift workflows, and the 10 Golden Rules.
+| Chapter | Title | Content Overview |
+| :--- | :--- | :--- |
+| **1** | **[Welcome to TNHD](README.md)** | Full page welcome, department overview & core philosophy |
+| **2** | **[TNHD Official EMS Guidelines](docs/2-ems-guidelines.md)** | Do's & Don'ts, rank structure (L0 to L4), patient care, siren rules, medic tools & quick procedure |
+| **3** | **[General EMS Roleplay Standards](docs/3-general-ems-rp.md)** | Roleplay principles, `/me` & `/do` medical commands, response codes 1/2/3, staging & radio 10-codes |
+| **4** | **[TNHD Tablet Operational Guide](docs/4-tablet-guide.md)** | In-game FiveM tablet manual (Dashboard, Active Dispatch, Assignments, Notifications) |
+| **5** | **[Missions, Aura & Career Board](docs/5-missions-and-progression.md)** | Aura rules, dynamic daily/weekly sample tasks, Promotion Board & promotion exams |
+| **6** | **[Cadet Operations & Shift Workflow](docs/6-cadet-ops-and-rules.md)** | Training sessions, supervised shifts, shift workflow & 10 Golden Rules |
 
 ---
 
